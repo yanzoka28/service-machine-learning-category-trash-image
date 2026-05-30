@@ -406,13 +406,3 @@ Se não houver pista no nome, ele usa uma heurística simples por cor média. Es
   }
 }
 ```
-
-## Roteiro De Apresentação
-
-1. Mostrar as pastas `input_images/`, `output_reports/` e `training/dataset/`.
-2. Explicar as ferramentas usadas: Pillow, OpenCV, Google Vision, TensorFlow/Keras e Pydantic.
-3. Rodar um teste aprovado.
-4. Rodar um teste com material divergente.
-5. Rodar um teste com `GRANDE_PORTE` ou `LIXO_GERAL`.
-6. Abrir o JSON gerado em `output_reports/`.
-7. Explicar que o mesmo fluxo pode usar SafeSearch real e modelo treinado real.
