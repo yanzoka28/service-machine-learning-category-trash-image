@@ -1,0 +1,17 @@
+{
+  "collection_point_id": "ponto-001D",
+  "status": "SOLICITAR_NOVA_IMAGEM",
+  "stage": "IMAGE_QUALITY",
+  "reason": "Imagem borrada",
+  "material_informado": "PLASTICO",
+  "material_detectado": null,
+  "confidence": null,
+  "quality": {
+    "brightness_score": 199.38,
+    "blur_score": 57.08,
+    "quality_status": "RUIM",
+    "reason": "Imagem borrada"
+  },
+  "safe_search": null,
+  "classification": null
+}

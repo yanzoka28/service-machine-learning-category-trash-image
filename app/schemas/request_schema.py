@@ -1,0 +1,13 @@
+from enum import StrEnum
+
+
+class MaterialType(StrEnum):
+    PLASTICO = "PLASTICO"
+    PAPEL = "PAPEL"
+    VIDRO = "VIDRO"
+    METAL = "METAL"
+    ELETRONICO = "ELETRONICO"
+    ORGANICO = "ORGANICO"
+    GRANDE_PORTE = "GRANDE_PORTE"
+    LIXO_GERAL = "LIXO_GERAL"
+    FORA_DE_CONTEXTO = "FORA_DE_CONTEXTO"

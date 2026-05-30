@@ -1,0 +1,35 @@
+{
+  "collection_point_id": "ponto-001D",
+  "status": "REVISAO_MANUAL",
+  "stage": "FINAL_DECISION",
+  "reason": "Confiança da classificação exige revisão manual",
+  "material_informado": "PLASTICO",
+  "material_detectado": "ELETRONICO",
+  "confidence": 0.685506,
+  "quality": {
+    "brightness_score": 142.38,
+    "blur_score": 1429.11,
+    "quality_status": "BOA",
+    "reason": "Imagem com qualidade suficiente"
+  },
+  "safe_search": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "classification": {
+    "predicted_class": "ELETRONICO",
+    "confidence": 0.685506,
+    "scores_by_class": {
+      "ELETRONICO": 0.685506,
+      "FORA_DE_CONTEXTO": 0.026184,
+      "METAL": 0.03113,
+      "ORGANICO": 0.042889,
+      "PAPEL": 0.006316,
+      "PLASTICO": 0.204689,
+      "VIDRO": 0.003285
+    }
+  }
+}
